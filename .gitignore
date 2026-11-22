@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Large binary source files (images are hosted on Vercel Blob)
+Chartogi_Complete_Product_Catalogue.pdf
+public/images/catalog/

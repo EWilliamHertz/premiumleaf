@@ -1,0 +1,117 @@
+sku,title,collection,status,pdf_page,chartogi_collection,chartogi_ref,variant_count,net_weight_g,dimensions_mm,est_exw_usd,retail_usd,retail_eur,est_margin_pct,fulfillment_type
+Cab-001,Upright Cigar Cabinet,Cigar Cabinets,inquiry,3,CIGAR CABINETS,PRODUCT  01,4,87000,160x595x1630,620,1890,1739,67.2,freight_inquiry
+Cab-002,Desktop Cigar Humidor,Cigar Cabinets,inquiry,4,CIGAR CABINETS,PRODUCT  02,6,5000,160x250x330,145,490,451,70.4,freight_inquiry
+Cab-003,Dual-Door Display Cabinet,Cigar Cabinets,inquiry,5,CIGAR CABINETS,PRODUCT  03,3,185000,160x1200x1760,980,2890,2659,66.1,freight_inquiry
+Cab-004,Countertop Cigar Cabinet,Cigar Cabinets,inquiry,6,CIGAR CABINETS,PRODUCT  04,4,30000,160x480x505,390,1190,1095,67.2,freight_inquiry
+Cab-005,Compact Cigar & Wine Cabinet,Cigar Cabinets,inquiry,7,CIGAR CABINETS,PRODUCT  05,2,12000,160x420x285,460,1390,1279,66.9,freight_inquiry
+Hum-001,Glass-Lid Cigar Humidor,Humidors,ready,8,HUMIDORS & CASES,PRODUCT  01,1,2500,260x220x65,34,129,119,73.6,china_air_parcel
+Hum-002,Classic Wooden Cigar Box,Humidors,ready,9,HUMIDORS & CASES,PRODUCT  02,1,1900,240x180x50,26,98,90,73.5,china_air_parcel
+Hum-003,Double-Layer Cigar Humidor,Humidors,inquiry,10,HUMIDORS & CASES,PRODUCT  03,1,2500,340x240x150,46,169,155,72.8,inquiry_approval
+Hum-004,Lacquered Cigar Humidor,Humidors,ready,11,HUMIDORS & CASES,PRODUCT  04,1,1000,230x150x45,24,89,82,73.0,china_air_parcel
+Hum-005,Engraved Wooden Humidor,Humidors,inquiry,12,HUMIDORS & CASES,PRODUCT  05,2,3500,330x255x180,42,149,137,71.8,inquiry_approval
+Hum-006,Cigar Accessory Case,Humidors,ready,13,HUMIDORS & CASES,PRODUCT  06,2,500,225x162x64,18,69,63,73.9,china_air_parcel
+Hum-007,Two-Tone Desktop Humidor,Humidors,inquiry,14,HUMIDORS & CASES,PRODUCT  07,1,3000,400x270x115,52,189,174,72.5,inquiry_approval
+Hum-008,Window-Lid Travel Case,Humidors,ready,15,HUMIDORS & CASES,PRODUCT  08,1,470,210x140x50,17,64,59,73.4,china_air_parcel
+Hum-009,Compact Cigar Travel Box,Humidors,ready,16,HUMIDORS & CASES,PRODUCT  09,1,560,158x90x53,15,58,53,74.1,china_air_parcel
+Hum-010,Woodgrain Display Humidor,Humidors,ready,17,HUMIDORS & CASES,PRODUCT  10,1,800,260x220x115,29,109,100,73.4,china_air_parcel
+Hum-011,Croc-Texture Travel Humidor,Humidors,ready,18,HUMIDORS & CASES,PRODUCT  11,2,800,240x180x100,21,79,73,73.4,china_air_parcel
+Hum-012,Hard-Shell Cigar Travel Case,Humidors,ready,19,HUMIDORS & CASES,PRODUCT  12,1,410,215x125x40,16,59,54,72.9,china_air_parcel
+Hum-013,Metal Cigar Canister,Humidors,inquiry,20,HUMIDORS & CASES,PRODUCT  13,3,1900,140x140x230,32,119,109,73.1,inquiry_approval
+Hum-014,Glass-Top Drawer Humidor,Humidors,inquiry,21,HUMIDORS & CASES,PRODUCT  14,1,2200,198x182x116,38,139,128,72.7,inquiry_approval
+Hum-015,Burl-Finish Drawer Humidor,Humidors,inquiry,22,HUMIDORS & CASES,PRODUCT  15,1,2000,385x270x190,49,179,165,72.6,inquiry_approval
+Hum-016,Lacquered Pine Cigar Box,Humidors,inquiry,23,HUMIDORS & CASES,PRODUCT  16,1,1000,360x200x53,25,94,86,73.4,inquiry_approval
+Hum-017,Flip-Top Display Humidor,Humidors,ready,24,HUMIDORS & CASES,PRODUCT  17,1,1300,229x216x137,36,135,124,73.3,china_air_parcel
+Hum-018,Leather Cigar Travel Case,Humidors,ready,25,HUMIDORS & CASES,PRODUCT  18,1,1000,220x130x87,22,84,77,73.8,china_air_parcel
+Hum-019,Folding Cigar Travel Case,Humidors,inquiry,26,HUMIDORS & CASES,PRODUCT  19,1,2000,206x138x77,34,124,114,72.6,inquiry_approval
+Hum-020,Chevron Travel Humidor,Humidors,ready,27,HUMIDORS & CASES,PRODUCT  20,5,570,205x135x80,18,68,63,73.5,china_air_parcel
+Cas-001,Leather Cigar Organiser,Cigar Cases,ready,28,CIGAR CASES,PRODUCT  01,1,370,210x140x30,19,74,68,74.3,china_air_parcel
+Cas-002,Double Cigar Slide Case,Cigar Cases,ready,29,CIGAR CASES,PRODUCT  02,2,110,170x75x35,11,44,40,75.0,china_air_parcel
+Cas-003,Cigar Case with Cutter Pocket,Cigar Cases,ready,30,CIGAR CASES,PRODUCT  03,8,110,170x75x35,12,48,44,75.0,china_air_parcel
+Cas-004,Protective Cigar Travel Case,Cigar Cases,ready,31,CIGAR CASES,PRODUCT  04,3,180,215x125x40,12,46,42,73.9,china_air_parcel
+Cas-005,Carbon-Fibre Slide Case,Cigar Cases,ready,32,CIGAR CASES,PRODUCT  05,6,50,150x70x30,13,49,45,73.5,china_air_parcel
+Cas-006,Zip-Around Cigar Travel Case,Cigar Cases,inquiry,33,CIGAR CASES,PRODUCT  06,4,1100,203x127x77,24,89,82,73.0,inquiry_approval
+Cas-007,Metal-Frame Cigar Case,Cigar Cases,ready,34,CIGAR CASES,PRODUCT  07,5,220,165x62x32,14,54,50,74.1,china_air_parcel
+Cas-008,Aluminium Cigar Case,Cigar Cases,inquiry,35,CIGAR CASES,PRODUCT  08A,3,580,290x220x60,17,64,59,73.4,inquiry_approval
+Cas-009,Three-Finger Leather Case,Cigar Cases,ready,36,CIGAR CASES,PRODUCT  08B,1,157,215x82x25,13,52,48,75.0,china_air_parcel
+Cas-010,Leather Cigar Accessory Folio,Cigar Cases,ready,37,CIGAR CASES,PRODUCT  09,1,250,160x165x30,18,68,63,73.5,china_air_parcel
+Cas-011,Steel Cigar Case with Pocket,Cigar Cases,ready,38,CIGAR CASES,PRODUCT  10,6,190,160x70x25,15,56,52,73.2,china_air_parcel
+Cas-012,Clear Single-Cigar Tube,Cigar Cases,ready,39,CIGAR CASES,PRODUCT  11,1,5,26x110x45,5,24,22,79.2,china_air_parcel
+Cas-013,Cigar Tube & Flask Set,Cigar Cases,inquiry,40,CIGAR CASES,PRODUCT  12,1,206,160x45x25,21,79,73,73.4,inquiry_approval
+Cut-001,Four-Piece Cigar Cutter Set,Cutters & Lighters,ready,41,CUTTERS & ACCESSORIES,PRODUCT  01,3,320,160x210x40,24,89,82,73.0,china_air_parcel
+Cut-002,"Cutter, Lighter & Ashtray Set",Cutters & Lighters,ready,42,CUTTERS & ACCESSORIES,PRODUCT  02,4,500,220x151x42,27,98,90,72.4,china_air_parcel
+Cut-003,V-Cutter & Lighter Combination,Cutters & Lighters,ready,43,CUTTERS & ACCESSORIES,PRODUCT  03,4,150,160x110x45,15,58,53,74.1,china_air_parcel
+Cut-004,Cutter & Lighter Combination,Cutters & Lighters,ready,44,CUTTERS & ACCESSORIES,PRODUCT  04,3,97,86x40x21,14,52,48,73.1,china_air_parcel
+Cut-005,Ten-Piece Cigar Accessory Set,Cutters & Lighters,inquiry,45,CUTTERS & ACCESSORIES,PRODUCT  05,2,3500,420x360x60,72,249,229,71.1,inquiry_approval
+Cut-006,Double-Blade Cigar Cutter,Cutters & Lighters,ready,46,CUTTERS & ACCESSORIES,PRODUCT  06,1,10,88x38x6,7,29,27,75.9,china_air_parcel
+Cut-007,Mother-of-Pearl Cigar Cutter,Cutters & Lighters,ready,47,CUTTERS & ACCESSORIES,PRODUCT  07A,3,138,160x45x12,21,79,73,73.4,china_air_parcel
+Cut-008,Direct-Jet Cigar Lighter,Cutters & Lighters,ready,48,CUTTERS & ACCESSORIES,PRODUCT  07B,6,150,70x30x18,17,64,59,73.4,china_air_parcel
+Cut-009,Patterned Metal Cigar Lighter,Cutters & Lighters,inquiry,49,CUTTERS & ACCESSORIES,PRODUCT  08,2,100,160x37x65,15,58,53,74.1,inquiry_approval
+Cut-010,Embossed Cigar Gift Set,Cutters & Lighters,ready,50,CUTTERS & ACCESSORIES,PRODUCT  09,1,350,160x130x37,25,94,86,73.4,china_air_parcel
+Cut-011,Metal Cigar Essentials Set,Cutters & Lighters,inquiry,51,CUTTERS & ACCESSORIES,PRODUCT  10,1,350,160x130x37,24,89,82,73.0,inquiry_approval
+Cut-012,Metal V-Cut Cigar Cutter,Cutters & Lighters,ready,52,CUTTERS & ACCESSORIES,PRODUCT  11,7,104,160x45x16,14,54,50,74.1,china_air_parcel
+Cut-013,Portable Cigar Cutter,Cutters & Lighters,inquiry,53,CUTTERS & ACCESSORIES,PRODUCT  12,1,21,160x37x10,8,32,29,75.0,inquiry_approval
+Cut-014,Colour Collection Cigar Cutter,Cutters & Lighters,ready,54,CUTTERS & ACCESSORIES,PRODUCT  13,6,25,160x38x6,9,34,31,73.5,china_air_parcel
+Cut-015,Twin-Ring Carbon-Fibre Cutter,Cutters & Lighters,ready,55,CUTTERS & ACCESSORIES,PRODUCT  14A,1,20,160x40x15,13,49,45,73.5,china_air_parcel
+Cut-016,Leaf-Shape Carbon-Fibre Cutter,Cutters & Lighters,ready,56,CUTTERS & ACCESSORIES,PRODUCT  14B,1,17,160x44x15,12,46,42,73.9,china_air_parcel
+Cut-017,Chinese Dragon Cigar Cutter,Cutters & Lighters,inquiry,57,CUTTERS & ACCESSORIES,PRODUCT  15,2,100,160x45x10,22,84,77,73.8,inquiry_approval
+Hyd-001,Small Resealable Cigar Bag,Humidity Care,ready,58,HUMIDITY & STORAGE,PRODUCT  01A,2,50,160x134x1,4,18,17,77.8,china_air_parcel
+Hyd-002,Large Resealable Cigar Bag,Humidity Care,ready,59,HUMIDITY & STORAGE,PRODUCT  01B,2,60,160x199x2,5,22,20,77.3,china_air_parcel
+Hyd-003,Two-Way Humidity Packs,Humidity Care,ready,60,HUMIDITY & STORAGE,PRODUCT  02,8,180,160x110x45,5,19,17,73.7,china_air_parcel
+Hyd-004,3-Tube Cigar Infuser,Humidity Care,inquiry,61,HUMIDITY & STORAGE,PRODUCT  03A,1,240,160x200x80,24,89,82,73.0,inquiry_approval
+Hyd-005,5-Tube Cigar Infuser,Humidity Care,inquiry,62,HUMIDITY & STORAGE,PRODUCT  03B,1,300,160x300x90,32,119,109,73.1,inquiry_approval
+Hyd-006,Sliding-Vent Cigar Humidifier,Humidity Care,ready,63,HUMIDITY & STORAGE,PRODUCT  04,2,32,150x21x35,6,24,22,75.0,china_air_parcel
+Hyd-007,Textured Metal Cigar Tube,Humidity Care,ready,64,HUMIDITY & STORAGE,PRODUCT  05,3,90,25x110x45,10,39,36,74.4,china_air_parcel
+Hyd-008,Vintage Analogue Hygrometer,Humidity Care,ready,65,HUMIDITY & STORAGE,PRODUCT  06,1,200,57x15x45,11,44,40,75.0,china_air_parcel
+Hyd-009,Round Thermo-Hygrometer,Humidity Care,ready,66,HUMIDITY & STORAGE,PRODUCT  07,1,110,57x18x45,10,38,35,73.7,china_air_parcel
+Hyd-010,Slim Cigar Humidifier Bar,Humidity Care,inquiry,67,HUMIDITY & STORAGE,PRODUCT  08,3,20,159x17x18,5,22,20,77.3,inquiry_approval
+Hyd-011,Electronic Cigar Humidifier,Humidity Care,ready,68,HUMIDITY & STORAGE,PRODUCT  09,1,180,152x51x89,18,69,63,73.9,china_air_parcel
+Hyd-012,Aluminium Single-Cigar Tube,Humidity Care,inquiry,69,HUMIDITY & STORAGE,PRODUCT  10,2,10,25x110x45,7,29,27,75.9,inquiry_approval
+Hyd-013,Small Tobacco Storage Pouch,Humidity Care,inquiry,70,HUMIDITY & STORAGE,PRODUCT  11A,1,20,160x200x50,4,16,15,75.0,inquiry_approval
+Hyd-014,Medium Tobacco Storage Pouch,Humidity Care,inquiry,71,HUMIDITY & STORAGE,PRODUCT  11B,1,20,160x260x50,5,19,17,73.7,inquiry_approval
+Hyd-015,Large Tobacco Storage Pouch,Humidity Care,inquiry,72,HUMIDITY & STORAGE,PRODUCT  11C,1,20,160x420x100,6,24,22,75.0,inquiry_approval
+Rst-001,Interlocking Metal Cigar Rest,Cigar Rests,ready,73,CIGAR RESTS,PRODUCT  01,3,30,160x33x2,9,34,31,73.5,china_air_parcel
+Rst-002,Ceramic Pedestal Cigar Rest,Cigar Rests,ready,74,CIGAR RESTS,PRODUCT  02,2,35,160x36x36,10,39,36,74.4,china_air_parcel
+Rst-003,Rotating-Head Cigar Rest,Cigar Rests,ready,75,CIGAR RESTS,PRODUCT  03,4,20,160x25x25,7,29,27,75.9,china_air_parcel
+Rst-004,Glass Cube Cigar Rest,Cigar Rests,inquiry,76,CIGAR RESTS,PRODUCT  04,3,100,160x40x40,13,49,45,73.5,inquiry_approval
+Rst-005,Magnetic Cigar Rest,Cigar Rests,ready,77,CIGAR RESTS,PRODUCT  05,1,10,30x22x32,6,26,24,76.9,china_air_parcel
+Rst-006,Cowboy Hat Cigar Rest,Cigar Rests,inquiry,78,CIGAR RESTS,PRODUCT  06,3,200,100x90x40,12,48,44,75.0,inquiry_approval
+Rst-007,Knurled Metal Cigar Rest,Cigar Rests,ready,79,CIGAR RESTS,PRODUCT  07,5,26,160x25x25,9,36,33,75.0,china_air_parcel
+Rst-008,Jade Cigar Rest,Cigar Rests,inquiry,80,CIGAR RESTS,PRODUCT  08,1,73,30x30x40,15,58,53,74.1,inquiry_approval
+Ash-001,Wooden Cigar Accessory Tray,Cigar Ashtrays,ready,81,CIGAR ASHTRAYS,PRODUCT  01,1,460,275x195x25,22,84,77,73.8,china_air_parcel
+Ash-002,Cigar Tray with Storage Drawer,Cigar Ashtrays,ready,82,CIGAR ASHTRAYS,PRODUCT  02,2,460,270x115x70,25,94,86,73.4,china_air_parcel
+Ash-003,Two-in-One Ceramic Ashtray,Cigar Ashtrays,inquiry,83,CIGAR ASHTRAYS,PRODUCT  03,1,1320,270x192x40,33,119,109,72.3,inquiry_approval
+Ash-004,Octagonal Wooden Ashtray,Cigar Ashtrays,ready,84,CIGAR ASHTRAYS,PRODUCT  04A,1,450,150x150x40,18,68,63,73.5,china_air_parcel
+Ash-005,Round-Bowl Wooden Ashtray,Cigar Ashtrays,ready,85,CIGAR ASHTRAYS,PRODUCT  04B,1,450,150x150x40,18,68,63,73.5,china_air_parcel
+Ash-006,Flat-Bowl Wooden Ashtray,Cigar Ashtrays,inquiry,86,CIGAR ASHTRAYS,PRODUCT  04C,1,430,155x155x35,17,64,59,73.4,inquiry_approval
+Ash-007,Wood & Metal Cigar Ashtray,Cigar Ashtrays,ready,87,CIGAR ASHTRAYS,PRODUCT  06,4,450,124x124x33,20,74,68,73.0,china_air_parcel
+Ash-008,Classic Ceramic Cigar Ashtray,Cigar Ashtrays,inquiry,88,CIGAR ASHTRAYS,PRODUCT  07,2,500,200x160x30,21,79,73,73.4,inquiry_approval
+Ash-009,Decorative Ceramic Ashtray,Cigar Ashtrays,inquiry,89,CIGAR ASHTRAYS,PRODUCT  08,3,740,198x198x37,24,89,82,73.0,inquiry_approval
+Ash-010,"Ashtray, Cutter & Lighter Set",Cigar Ashtrays,inquiry,90,CIGAR ASHTRAYS,PRODUCT  09,2,945,160x190x50,36,129,119,72.1,inquiry_approval
+Dec-001,Cigar Lounge Sculpture,Lounge Decor & Gifts,inquiry,91,DECOR & GIFTS,PRODUCT  01,3,1500,290x240x460,52,189,174,72.5,inquiry_approval
+Dec-002,Cigar-Themed Sticker Collection,Lounge Decor & Gifts,inquiry,92,DECOR & GIFTS,PRODUCT  02,1,30,160x110x45,4,18,17,77.8,inquiry_approval
+Dec-003,Cigar Foot Bands,Lounge Decor & Gifts,inquiry,93,DECOR & GIFTS,PRODUCT  03,2,50,95x30x10,6,24,22,75.0,inquiry_approval
+Dec-004,Cigar-Themed Shadow Box Art,Lounge Decor & Gifts,inquiry,94,DECOR & GIFTS,PRODUCT  04,2,4000,160x500x500,48,169,155,71.6,inquiry_approval
+Dec-005,Cigar Gnome Ornament,Lounge Decor & Gifts,inquiry,95,DECOR & GIFTS,PRODUCT  05,1,318,105x110x180,15,58,53,74.1,inquiry_approval
+Dec-006,Striped Enamel Cufflinks,Lounge Decor & Gifts,inquiry,96,DECOR & GIFTS,PRODUCT  06A,1,16,160x14x21,11,44,40,75.0,inquiry_approval
+Dec-007,Cigar-Shaped Cufflinks,Lounge Decor & Gifts,inquiry,97,DECOR & GIFTS,PRODUCT  06B,2,18,22x10x25,12,48,44,75.0,inquiry_approval
+Dec-008,Short Cigar Band Storage Jar,Lounge Decor & Gifts,inquiry,98,DECOR & GIFTS,PRODUCT  07A,1,1030,175x110x250,17,64,59,73.4,inquiry_approval
+Dec-009,Tall Cigar Band Storage Jar,Lounge Decor & Gifts,inquiry,99,DECOR & GIFTS,PRODUCT  07B,1,1630,180x110x360,21,78,72,73.1,inquiry_approval
+Dec-010,Cuba Crest Fridge Magnet,Lounge Decor & Gifts,inquiry,100,DECOR & GIFTS,PRODUCT  08A,1,40,160x75x85,6,24,22,75.0,inquiry_approval
+Dec-011,Jamaica Character Fridge Magnet,Lounge Decor & Gifts,inquiry,101,DECOR & GIFTS,PRODUCT  08B,1,50,160x45x101,6,24,22,75.0,inquiry_approval
+Dec-012,Havana Cigar & Leaf Magnet,Lounge Decor & Gifts,inquiry,102,DECOR & GIFTS,PRODUCT  08C,1,32,160x48x65,6,24,22,75.0,inquiry_approval
+Dec-013,Tapered Tobacco Plush,Lounge Decor & Gifts,inquiry,103,DECOR & GIFTS,PRODUCT  09A,1,42,250x50x50,8,32,29,75.0,inquiry_approval
+Dec-014,Cigar-Shaped Plush Cushion,Lounge Decor & Gifts,inquiry,104,DECOR & GIFTS,PRODUCT  09B,1,1200,160x110x45,14,54,50,74.1,inquiry_approval
+Dec-015,Cigar Band Display Case,Lounge Decor & Gifts,inquiry,105,DECOR & GIFTS,PRODUCT  10,1,820,160x271x66,30,109,100,72.5,inquiry_approval
+Sig-001,Cigar Freshening Spray,Reserve Editions,inquiry,106,IN-HOUSE COLLECTION,RD-01,1,151,160x45x129,13,49,45,73.5,inquiry_approval
+Sig-002,Chinese Cigar Collectible Cards,Reserve Editions,inquiry,107,IN-HOUSE COLLECTION,RD-02,1,220,160x62x87,10,39,36,74.4,inquiry_approval
+Sig-003,Cigar Series Playing Cards,Reserve Editions,inquiry,108,IN-HOUSE COLLECTION,RD-03,1,220,160x60x97,7,29,27,75.9,inquiry_approval
+Sig-004,Vintage Chinese Cigar Posters,Reserve Editions,inquiry,109,IN-HOUSE COLLECTION,RD-04,2,220,160x210x297,11,44,40,75.0,inquiry_approval
+Sig-005,Decorative Cigar Matchbook,Reserve Editions,inquiry,110,IN-HOUSE COLLECTION,RD-05,1,220,160x60x4,5,19,17,73.7,inquiry_approval
+Sig-006,Cigar Tasting & Band Journal,Reserve Editions,inquiry,111,IN-HOUSE COLLECTION,RD-06,1,220,160x140x15,17,64,59,73.4,inquiry_approval
+Sig-007,3D-Printed Cigar Case,Reserve Editions,inquiry,112,IN-HOUSE COLLECTION,RD-07,1,220,160x88x153,16,59,54,72.9,inquiry_approval
+Sig-008,Neck-Strap Cigar Tube,Reserve Editions,inquiry,113,IN-HOUSE COLLECTION,RD-08,1,120,168x22x45,14,54,50,74.1,inquiry_approval
+Sig-009,Golf-Themed Cigar Holder,Reserve Editions,inquiry,114,IN-HOUSE COLLECTION,RD-09,1,220,300x124x62,24,89,82,73.0,inquiry_approval
+Acc-001,Colour Collection Manual Roller,Specialty Accessories,inquiry,115,OTHER ACCESSORIES,PRODUCT  01,6,85,188x50x50,12,48,44,75.0,inquiry_approval
+Acc-002,Brass Manual Roller,Specialty Accessories,inquiry,116,OTHER ACCESSORIES,PRODUCT  02,1,350,160x110x45,18,69,63,73.9,inquiry_approval
+Acc-003,Decorative Cigar Mouthpiece,Specialty Accessories,inquiry,117,OTHER ACCESSORIES,PRODUCT  03,2,150,130x60x30,11,42,39,73.8,inquiry_approval
+Acc-004,Portable Rolling Kit,Specialty Accessories,inquiry,118,OTHER ACCESSORIES,PRODUCT  04,1,86,160x110x192,15,56,52,73.2,inquiry_approval
